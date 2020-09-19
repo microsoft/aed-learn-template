@@ -4,11 +4,11 @@ metadata:
   title: 
   description: 
   ms.date: 
-  author: 
-  ms.author: 
+  author: # Your GitHub username (or whomever you'd like to give author attribution to)
+  ms.author: shanama # Leave this as shanama unless you want content bugs assigned directly to you
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
 title: 
-durationInMinutes: 3
+durationInMinutes: 
 content: |
   [!include[](includes/1-unit.md)]
