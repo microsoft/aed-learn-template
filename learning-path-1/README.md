@@ -18,3 +18,5 @@ Module Titles:
 ## Instructions
 
 Learning paths are defined by a single yaml file. Please fill out all commented fields in the example yaml file in this folder.
+
+For each new module in your learning path, copy the module folder and do all content development there. Modules & their content do NOT live inside a learning path folder.
