@@ -1,5 +1,5 @@
 ### YamlMime:Module
-uid: 
+uid: ""
 metadata:
   title: # Add your desired module title. All titles must be sentence-case.
   description: # Add a short description for your module for search engines.
@@ -25,8 +25,8 @@ roles:
 # - Add relevant user role(s) (developer, data scientist, etc.)
 - student
 products:
-- 
+- ""
 units:
-- 
+- ""
 badge:
-  uid: 
+  uid: ""
