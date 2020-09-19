@@ -55,6 +55,7 @@ All modules are **required** to either have at least one knowledge check or at l
 
 We recommend having at least one knowledge check per module, even if you do have hands-on exercises that use the sandbox. Knowledge checks are:
 - Multiple choice (no True/False)
+- Don't have "All/None of the above" as an option
 - Should actually contribute to learning
 - Need to have the correct answer indicated
 - Need to have explanations for why each answer is either correct or incorrect
