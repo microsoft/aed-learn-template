@@ -1,15 +1,14 @@
 
 # Learn Template
 
-So you want to write Microsoft Learn content for a novice audience? Great! Here is a guide to doing that.
+This repo is designed to help you create and scaffold your Student/Step 0 content for Microsoft Learn.
 
-## Module or Learning Path?
+If you've found this repo, but haven't yet:
 
-Explain module vs learning path briefly and the fact that modules dont have to be in learning paths or could be added to lps
+1. Read our [Student/Step 0 content strategy doc](https://microsoft-my.sharepoint.com/:w:/g/personal/shanama_microsoft_com1/EWcQMH7tyKNNstzafKABeTwB7TVKhOm5AUoWcBjIvwA3kg?e=zXatFa)
+1. Reached out to Shana Matthews (shanama) 
 
-## Target Audience
-
-Talk a bit about the student audience and what we expect
+Please take those steps before starting on your content creation journey.
 
 ## Requirements
 
@@ -21,7 +20,7 @@ Talk about the general process:
 - Propose to Shana (who is making sure content fits within our existing content)
 - Decide on a timeline for project completion
 - Decide what you're building (module, lp) 
-- Outline it and share with Shana to ensure it is the right size
+- Outline it and share with Shana to ensure it is the right size and format
 - Clone this template repo
 - Write your content
 - Work with Shana to fill in the yml files
@@ -30,18 +29,6 @@ Talk about the general process:
 - Respond to PR/DevOps requests from Aquent in the Learn repo
 - Review the content once it's live
 - Participate in a monthly bug bash (if necessary for your content, Shana will let you know)
-
-# Learning Path
-
-So you decided to build a Learning Path! Awesome! Here's what you will need:
-
-## Files
-
-The file structure is fairly straightforward:
-LP Folder
-  - README.md: Contains the LP title and the Module Titles for quick view
-  - index.yml: Contains the outline of the content and the actual titles, descriptions, etc
-  - Module Folder (for each module): See Below
 
 # Module
 
@@ -69,11 +56,23 @@ We recommend having at least 2 knowledge checks per module. Knowledge checks are
 - Need to have the correct answer indicated
 - Need to have explanations for why each answer is either correct or incorrect
 
+# Learning Path
+
+So you decided to build a Learning Path for your Modules! Awesome!
+
+## Files
+
+Learning paths are defined by a single index.yml file. 
+
+LP Folder
+  - README.md: Contains the LP title and the Module Titles for quick reference
+  - index.yml: Contains the outline of the Modules within the Learning Path and the actual titles, descriptions, etc
+
 # Getting Started
 
-If you are going to build modules as part of a learning path, we recommend starting from the learning-path-1 folder and deleting the module-1 folder from your repo. Copy the lp1-module-1 folder for each module you want to create and the learning-path-1 folder for each learning path you want to create.
-
 If you are going to build a module on it's own, we recommend starting from the module-1 folder and deleteing the learning-path-1 folder from your repo. Copy the module-1 folder for each module you want to create.
+
+If you are going to build modules as part of a learning path, copy the lp1-module-1 folder for each module you want to create and the learning-path-1 folder for each learning path you want to create. Module folders do not live within a Learning Path's folder structure.
 
 Don't Forget:
 - Rename folders and files to match YOUR content. 
