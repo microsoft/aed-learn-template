@@ -16,7 +16,7 @@ summary: # Add a short description for your learning path to be displayed to use
 prerequisites: | # Fill in a detailed list of prerequisites in this form
 #  - prereq 1
 #  - prereq 2
-iconUrl: 
+iconUrl: /learn/achievements/generic-trophy.svg # TODO change
 levels:
 - beginner
 roles:

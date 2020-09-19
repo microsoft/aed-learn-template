@@ -18,7 +18,7 @@ abstract:  |
 prerequisites: | # Fill in a detailed list of prerequisites in this form
 #  - prereq 1
 #  - prereq 2
-iconUrl: https://docs.microsoft.com/media/learn/module.svg
+iconUrl: /learn/achievements/generic-badge.svg # TODO change
 levels:
 - beginner
 roles:
