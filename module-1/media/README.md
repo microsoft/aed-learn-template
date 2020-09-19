@@ -1,3 +1,11 @@
+# Media folder
+
+All images you include in your markdown should live in this folder and be referenced in the markdown from this folder. 
+
+Please fill out the below information for any images you've added to this folder that you didn't create yourself (e.g. screenshots).
+
+Please ensure no screenshots have any PII (even your own email address) in them.
+
 # Image copyrights and information
 
 | File | URL | Date Accessed | Copyright |
