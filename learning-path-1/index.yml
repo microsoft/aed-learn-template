@@ -12,7 +12,14 @@ metadata:
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
 title: # Your desired learning path title. Same as above.
-summary: # Add a short description for your learning path to be displayed to users. Can be the same as above.
+summary: | # Add a description for your learning path to be displayed to users in the given form. Can include the description from above.
+  <Short description of your learning path> 
+
+  In this learning path you will:
+    - <learning objective 1>
+    - <learning objective 2>
+    - <learning objective 3>
+
 prerequisites: | # Fill in a detailed list of prerequisites in this form
 #  - prereq 1
 #  - prereq 2
