@@ -4,17 +4,17 @@
 uid: 
 metadata:
   title: # Add your desired learning path title. All titles must be sentence-case.
-  description: # Add a short description for your learning path for search engines.
+  description: # Add a short description of your learning path for search engines.
   brand: 
   ms.date: 
   author: # Your GitHub username (or whomever you'd like to give author attribution to)
-  ms.author: shanama # Leave this as shanama unless you want bugs assigned directly to you :)
+  ms.author: shanama # Leave this as shanama unless you want content bugs assigned directly to you
   ms.topic: interactive-tutorial
   ms.prod: 
 title: # Your desired learning path title. Same as above.
-summary: # Add a short description for your learning path to be displayed to users. Can be the same as above
+summary: # Add a short description for your learning path to be displayed to users. Can be the same as above.
 prerequisites: | # Fill in a detailed list of prerequisites in this form
-#  - prereq1
+#  - prereq 1
 #  - prereq 2
 iconUrl: 
 levels:
