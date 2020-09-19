@@ -28,4 +28,4 @@ All modules should have this folder structure:
   - 2-unitname.yml
   - index.yml
 
-Please fill out all the fields in the yaml (.yml) files that are commented.
+In **each** .yml file, please fill out all commented fields to the best of your ability. If you have any questions, reach out to Shana.
