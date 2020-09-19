@@ -21,6 +21,7 @@ Talk about the general process:
 - Decide on a timeline for project completion
 - Decide what you're building (module, lp) 
 - Outline it and share with Shana to ensure it is the right size and format
+- Review the [Learn content requirements](https://review.docs.microsoft.com/en-us/learn-docs/docs/content-requirements?branch=master)
 - Clone this template repo
 - Write your content
 - Work with Shana to fill in the yml files
@@ -48,13 +49,17 @@ So you want to write a module on it's own or part of a learning path, great!
         - unit.md (for each unit): Contains the actual content for each unit
         - Each module should have an introduction.md and summary.md file
 
-## Knowledge Check
+## Knowledge Checks
 
-We recommend having at least 2 knowledge checks per module. Knowledge checks are:
-- Multiple choice
+All modules are **required** to either have at least one knowledge check or at least one hands-on exercise unit that uses the sandbox in some way. Having both is better.
+
+We recommend having at least one knowledge check per module, even if you do have hands-on exercises that use the sandbox. Knowledge checks are:
+- Multiple choice (no True/False)
 - Should actually contribute to learning
 - Need to have the correct answer indicated
 - Need to have explanations for why each answer is either correct or incorrect
+
+Knowledge checks can be embedded in a unit or a standalone unit. If embedded, knowledge checks should be 2-3 questions. If standalone, they must be the second-to-last unit in a module and must be 3-5 questions. They should not be combined with the Summary unit, instead they should come right before.
 
 # Learning Path
 
