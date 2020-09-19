@@ -34,7 +34,7 @@ In **each** .yml file, please fill out all commented fields to the best of your 
 
 All modules are required to either have at least one knowledge check or at least one hands-on exercise unit that uses the sandbox in some way. Having both is better.
 
-We recommend having at least one knowledge check per module, even if you do have hands-on exercises that use the sandbox. Knowledge checks are:
+We recommend having at least one knowledge check, even if you do have hands-on exercises that use the sandbox. Knowledge checks are:
 
 - Multiple choice (no True/False)
 - Don't have "All/None of the above" as an option
