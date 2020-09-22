@@ -20,7 +20,7 @@ Talk about the general process:
 - Propose to Shana (who is making sure content fits within our existing content)
 - Decide on a timeline for project completion
 - Decide what you're building (module, lp) 
-- Outline it and share with Shana to ensure it is the right size and format
+- Outline it using [this module design template](./module-design-template.md) and share with Shana to ensure it is the right size and format
 - Review the [Learn content requirements](https://review.docs.microsoft.com/en-us/learn-docs/docs/content-requirements?branch=master)
 - Clone this template repo
 - Write your content
