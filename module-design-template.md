@@ -5,12 +5,12 @@
 ## Role(s)
 
 - *Add the role(s)* [Role guidance](https://review.docs.microsoft.com/en-us/new-hope/information-architecture/metadata/taxonomies?branch=master#role)
-- *This will probably include "student"
+- *This will probably include "student"*
 
 ## Level
 
 - *Add the level*  [Level guidance](https://review.docs.microsoft.com/en-us/new-hope/information-architecture/metadata/taxonomies?branch=master#level)
-- *This will probably be "beginner"
+- *This will probably be "beginner"*
 
 ## Product(s)
 
