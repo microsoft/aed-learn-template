@@ -112,14 +112,14 @@ This repo contains new Microsoft Learn content for....< DESCRIBE YOUR CONTENT >
 
 | Type | Title | Description | Duration | 
 |------|-------|-------------|----------|
-| Learning Path | My LP 1 | This LP is so cool | 30 mins |
-| Module | My M1 as part of LP1 | This module is awesome | 10 mins |
-| Module | My M2 as part of LP1 | This module is awesome | 10 mins |
-| Module | My M2 as part of LP1 | This module is awesome | 10 mins |
-| Learning Path | My LP 2 | This LP is so cool | 30 mins |
-| Module | My M1 as part of LP2 | This module is awesome | 10 mins |
-| Module | My M2 as part of LP2 | This module is awesome | 10 mins |
-| Module | My M2 as part of LP2 | This module is awesome | 10 mins |
+| Learning Path | My LP 1 | This LP is so cool | <sum of modules> |
+| Module | My M1 as part of LP1 | This module is awesome | 15-45 min |
+| Module | My M2 as part of LP1 | This module is awesome | 15-45 min |
+| Module | My M2 as part of LP1 | This module is awesome | 15-45 min |
+| Learning Path | My LP 2 | This LP is so cool | <sum of modules> |
+| Module | My M1 as part of LP2 | This module is awesome | 15-45 min |
+| Module | My M2 as part of LP2 | This module is awesome | 15-45 min |
+| Module | My M2 as part of LP2 | This module is awesome | 15-45 min |
 
 ## Promotion and Marketing
 
