@@ -17,7 +17,7 @@ Talk about the general process:
     - Does this content already exist? What are you bringing new?
     - Will this work on a student account? (not a deal breaker if not, but would be nice)
     - Will this work on Mac and PC? How about browser (with CodeSpaces)?
-- 💍 Propose to Shana with [these instructions](./module-proposal.md)
+- Propose to Shana 💍 with [these instructions](./module-proposal.md)
 - Decide on a timeline for project completion
 - Decide what you're building (module, lp) 
 - Outline it using [this module design template](./module-design-template.md) and share with Shana to ensure it is the right size and format
