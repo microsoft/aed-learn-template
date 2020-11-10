@@ -38,8 +38,8 @@ So you want to write a module on it's own or part of a learning path, great!
 ## Files
 
 - Module Folder:
-    - index.yml: Contains the outline of hte content and the actual titles, descriptions, etc
-    - unit.yml (for each unit): Contains the outline of hte content and the actual titles, descriptions, etc
+    - index.yml: Contains the outline of the content and the actual titles, descriptions, etc
+    - unit.yml (for each unit): Contains the outline of the content and the actual titles, descriptions, etc
         - Each module should have an introduction.yml and summary.yml file
     - summary.yml: Additionally contains the knowledge check questions (see below)
     - Media Folder
