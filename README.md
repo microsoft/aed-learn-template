@@ -125,6 +125,21 @@ This repo contains new Microsoft Learn content for....< DESCRIBE YOUR CONTENT >
 
 [Link to marketing plan](TBD): Sarah will have a template for this
 
+## Special notes for partnership content
+
+For all future flagship partnership Learning Paths / Modules and select modules created in FY20 or FY21 H1 like CMU Cloud Computing and Oxford Edge AI Engineering, we plan to create a multi-modal learning experience, driving users to Learn, that specifically includes:
+- A 2-3 minute video that introduces and gives an overview of the Learning Path / Module available on-demand on Channel 9
+- A 15-30 minute video walking through each module available on-demand on Channel9.
+- [optional] A 1-hr live stream deep-diving into each module, streamed to Learn TV, Twitch, and YouTube as appropriate
+
+We will also create light connective tissue from Learn to these other modalities. e.g.:
+- Starting in Q3, when the learning path intro videos/images feature is released, flagship partnership Learning Paths will show a short introduction video inline on the Learning Path’s index page. See mockup in appendix 
+  - If a video is not (yet) available, we will substitute in a high-quality image provided by the partner, and (if appropriate) a link to sign up for the live stream event.
+- Flagship partnership Modules and Learning Paths will include text indicating that this content is part of a multi-modal learning experience:
+  - Index page: “This module is part of a multi-modal learning experience. Start the module to see how you can follow along!” with no link. See mockup in appendix 
+  - Intro unit: “This module is part of a multi-modal learning experience. Follow along with a video walkthrough of the module in a new tab.” Links to a 15-30 minute technical overview video on Channel 9. See mockup in appendix 
+
+
 ## Other Information
 
 < Any comments you want to add here, brainstorming, research, etc >
