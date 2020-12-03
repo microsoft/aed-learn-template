@@ -32,3 +32,10 @@ Learning path index page intro text will follow this format:
 6.	Bulleted list of Learning Path objectives (exists, required by Learn)
 7.	Bulled list of Prerequisites (exists, required by Learn) 
 
+Module index page intro text will follow the same format with these exceptions:
+- Module title does NOT include partner name, unless relevant to module 
+- Module index pages will not contain a video or image (platform constraint)
+- Connective-tissue text: “This module is part of a multi-modal learning experience. Start the module to see how you can follow along!”
+- Module index page text will briefly re-introduce the partnership, similar to Learning Path
+
+
