@@ -139,6 +139,20 @@ We will also create light connective tissue from Learn to these other modalities
   - Index page: “This module is part of a multi-modal learning experience. Start the module to see how you can follow along!” with no link. See mockup in appendix 
   - Intro unit: “This module is part of a multi-modal learning experience. Follow along with a video walkthrough of the module in a new tab.” Links to a 15-30 minute technical overview video on Channel 9. See mockup in appendix 
 
+Learning path index page intro text will follow this format:
+1.	Learning Path title includes partner name (“…inspired by <partner>” or “…in partnership with <partner>”). Note: if author attribution on index pages ships in H2, we will utilize this feature instead.
+2.	Inline introduction video, as described in previous section, supported by the learning path intro videos/images feature 
+3.	Connective-tissue text: “This learning path is part of a multi-modal learning experience. Start the first module to see how you can follow along!”, as described in the previous section
+4.	Intro text which introduces partnership, including partner-supplied copy and linking to partner website if required, and hints at technical topics covered
+5.	Additional paragraph(s) to explain technical topics covered
+6.	Bulleted list of Learning Path objectives (exists, required by Learn)
+7.	Bulled list of Prerequisites (exists, required by Learn) 
+
+Module index page intro text will follow the same format with these exceptions:
+- Module title does NOT include partner name, unless relevant to module 
+- Module index pages will not contain a video or image (platform constraint)
+- Connective-tissue text: “This module is part of a multi-modal learning experience. Start the module to see how you can follow along!”
+- Module index page text will briefly re-introduce the partnership, similar to Learning Path
 
 ## Other Information
 
