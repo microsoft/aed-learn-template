@@ -74,6 +74,33 @@ LP Folder
   - README.md: Contains the LP title and the Module Titles for quick reference
   - index.yml: Contains the outline of the Modules within the Learning Path and the actual titles, descriptions, etc
 
+# Localization
+
+All of our content will begin localization into the 17 Azure languages ([described here on the Learn GitHub repo](https://review.docs.microsoft.com/en-us/help/contribute/localization-azure-docs?context=/learn-docs/context/lg-context&branch=master)) the date of the English publication. It takes approximately 2 weeks to localize. 
+
+Please check the [Learn GitHub docs](https://review.docs.microsoft.com/en-us/help/contribute/localization-azure-docs?context=/learn-docs/context/lg-context&branch=master) to ensure these are still up to date.
+
+|Locale | Locale Name |
+|-------|-------------|
+| de-DE | German - Germany |
+| es-ES | Spanish - Spain (Traditional Sort) |
+| fr-FR | French - France |
+| it-IT | Italian - Italy |
+| ja-JP | Japanese - Japan |
+| ko-KR | Korean - Korea |
+| pt-BR | Portuguese - Brazil |
+| ru-RU | Russian - Russia |
+| zh-CN | Chinese - People's Republic of China |
+| zh-TW | Chinese - Taiwan |
+| cs-CZ | Czech - Czech Republic |
+| pl-PL | Polish - Poland |
+| tr-TR | Turkish - Turkey |
+| hu-HU | Hungarian - Hungary |
+| nl-NL | Dutch - Netherlands |
+| pt-PT | Portuguese - Portugal |
+| sv-SE | Swedish - Sweden |
+
+
 # Getting Started
 
 If you are going to build a module on it's own, we recommend starting from the module-1 folder and deleteing the learning-path-1 folder from your repo. Copy the module-1 folder for each module you want to create.
