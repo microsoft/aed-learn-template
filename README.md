@@ -166,18 +166,18 @@ We will also create light connective tissue from Learn to these other modalities
   - Index page: 
     ```
     > [!TIP]
-    > This module is part of a multi-modal learning experience. Start the module to see how you can follow along!
+    > This module is part of a multimodal learning experience. Start the module to see how you can follow along!
     ```
     with no link. See mockup in appendix 
   - If there is one video for multiple modules in a learning path, on the Index page for all modules after the first:
     ```
     > [!TIP]
-    > This module is part of a multi-modal learning experience. Revisit the first module to see how you can follow along!
+    > This module is part of a multimodal learning experience. Revisit the first module to see how you can follow along!
     ```
   - Intro unit:
     ```
     > [!TIP]
-    > This module is part of a multi-modal learning experience. Follow along with a video walkthrough of the module in a new tab.
+    > This module is part of a multimodal learning experience. Follow along with a video walkthrough of the module in a new tab.
     ```
     Links to a 30-60 minute technical walkthrough video on the Microsoft Developer YouTube Channel. See mockup in appendix.
 
