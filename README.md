@@ -177,7 +177,7 @@ We will also create light connective tissue from Learn to these other modalities
   - Intro unit:
     ```
     > [!TIP]
-    > This module is part of a multimodal learning experience. Follow along with a video walkthrough of the module in a new tab.
+    > This module is part of a multimodal learning experience. [Follow along with a video walkthrough of the module](https://URL?azure-portal=true) in a new tab.
     ```
     Links to a 30-60 minute technical walkthrough video on the Microsoft Developer YouTube Channel. See mockup in appendix.
 
