@@ -180,6 +180,12 @@ We will also create light connective tissue from Learn to these other modalities
     > This module is part of a multimodal learning experience. [Follow along with a video walkthrough of the module](https://URL?azure-portal=true) in a new tab.
     ```
     Links to a 30-60 minute technical walkthrough video on the Microsoft Developer YouTube Channel. See mockup in appendix.
+  - Summary unit:
+    ```
+    > [!TIP]
+    > Remember, this module is part of a multimodal learning experience. [Follow along with a video walkthrough of the module](https://URL?azure-portal=true) in a new tab.
+    ```
+    Links to a 30-60 minute technical walkthrough video on the Microsoft Developer YouTube Channel. See mockup in appendix.
 
 Learning path index page intro text will follow this format:
 1.	Learning Path title includes partner name (“…inspired by <partner>” or “…in partnership with <partner>”). Note: if author attribution on index pages ships in H2, we will utilize this feature instead.
