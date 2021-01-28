@@ -163,13 +163,33 @@ We will also create light connective tissue from Learn to these other modalities
 - Starting in Q3, when the learning path intro videos/images feature is released, flagship partnership Learning Paths will show a short introduction video inline on the Learning Path’s index page. See mockup in appendix 
   - If a video is not (yet) available, we will substitute in a high-quality image provided by the partner, and (if appropriate) a link to sign up for the live stream event.
 - Flagship partnership Modules and Learning Paths will include text (**formatted as tip**) indicating that this content is part of a multi-modal learning experience:
-  - Index page: “This module is part of a multi-modal learning experience. Start the module to see how you can follow along!” with no link. See mockup in appendix 
-  - Intro unit: “This module is part of a multi-modal learning experience. Follow along with a video walkthrough of the module in a new tab.” Links to a 15-30 minute technical overview video on Channel 9. See mockup in appendix 
+  - Index page: 
+    ```
+    > [!TIP]
+    > This module is part of a multi-modal learning experience. Start the module to see how you can follow along!
+    ```
+    with no link. See mockup in appendix 
+  - If there is one video for multiple modules in a learning path, on the Index page for all modules after the first:
+    ```
+    > [!TIP]
+    > This module is part of a multi-modal learning experience. Revisit the first module to see how you can follow along!
+    ```
+  - Intro unit:
+    ```
+    > [!TIP]
+    > This module is part of a multi-modal learning experience. Follow along with a video walkthrough of the module in a new tab.
+    ```
+    Links to a 30-60 minute technical walkthrough video on the Microsoft Developer YouTube Channel. See mockup in appendix.
 
 Learning path index page intro text will follow this format:
 1.	Learning Path title includes partner name (“…inspired by <partner>” or “…in partnership with <partner>”). Note: if author attribution on index pages ships in H2, we will utilize this feature instead.
-2.	Inline introduction video, as described in previous section, supported by the learning path intro videos/images feature 
-3.	Connective-tissue text (**formatted as tip**): “This learning path is part of a multi-modal learning experience. Start the first module to see how you can follow along!”, as described in the previous section
+2.	Inline introduction video (15-30 minute video on Channel 9) supported by the learning path intro videos/images feature 
+3.	Connective-tissue text (**formatted as tip**): 
+    ```
+    > [!TIP]
+    > This learning path is part of a multimodal learning experience. Start the first module to see how you can follow along!
+    ```
+    as described in the previous section
 4.	Intro text which introduces partnership, including partner-supplied copy and linking to partner website if required, and hints at technical topics covered
 5.	Additional paragraph(s) to explain technical topics covered
 6.	Bulleted list of Learning Path objectives (exists, required by Learn)
