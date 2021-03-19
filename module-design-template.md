@@ -48,7 +48,7 @@ Identify the subtasks of *module title*
 
     *Add your scenario [(Scenario guidance)](https://review.docs.microsoft.com/en-us/learn-docs/docs/id-guidance-scenarios)*
 
-1. **Learning-content unit title**
+2. **Learning-content unit title**
 
     List the content that will enable the learner to *subtask*:
 
@@ -62,14 +62,7 @@ Identify the subtasks of *module title*
         - Information needed to accomplish the enabling objective
         - Information needed to accomplish the enabling objective
 
-    **Knowledge check**
-
-    What types of questions will test *learning objective*? *[(Knowledge check guidance)](https://review.docs.microsoft.com/en-us/learn-docs/docs/id-guidance-knowledge-check)*
-
-    - Question type
-    - Question type
-
-1. **Exercise - exercise unit title**
+3. **Exercise - exercise unit title**
 
     List the steps which apply the learning content from previous unit:
 
@@ -77,7 +70,14 @@ Identify the subtasks of *module title*
     1. Step
     1. Step
 
-1. **Summary**
+3.  **Knowledge check**
+
+    What types of questions will test *learning objective*? *[(Knowledge check guidance)](https://review.docs.microsoft.com/en-us/learn-docs/docs/id-guidance-knowledge-check)*
+
+    - Question type
+    - Question type
+
+5. **Summary**
 
     How did you solve the problem in the initial scenario with the knowledge learned in the module? 
     

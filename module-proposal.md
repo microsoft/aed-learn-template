@@ -1,6 +1,6 @@
 # Propose new content for Microsoft Learn
 
-Please fill out each section below and then copy/paste this doc into an email to Shana!
+Please fill out each section below and then copy/paste this doc into an email to *TBD (Justin Garrett until determined)*!
 
 ## Tell me about your content
 
