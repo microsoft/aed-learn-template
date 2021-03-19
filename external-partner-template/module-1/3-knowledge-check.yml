@@ -1,0 +1,59 @@
+### YamlMime:ModuleUnit
+uid: 
+metadata:
+  title: Knowledge Check
+  description: Knowledge Check
+  ms.date: mm/dd/yyyy
+  author: # Your GitHub username (or whomever you'd like to give author attribution to)
+  ms.author: # Your Microsoft username (or whomever you'd like to receive DevOps notifications for this content)
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Knowledge Check
+durationInMinutes:
+content: |
+  [!include[](includes/3-knowledge-check.md)]
+quiz:
+  title: Check your knowledge
+  questions:
+  - content: "Question1"
+    choices:
+    - content: "Answer1"
+      isCorrect: false
+      explanation: "Explanation1"
+    - content: "Answer2"
+      isCorrect: false
+      explanation: "Explanation2"
+    - content: "Answer3"
+      isCorrect: false
+      explanation: "Explanation3"
+    - content: "Answer4"
+      isCorrect: true
+      explanation: "Explanation4"
+  - content: "Question2"
+    choices:
+    - content: "Answer1"
+      isCorrect: false
+      explanation: "Explanation1"
+    - content: "Answer2"
+      isCorrect: false
+      explanation: "Explanation2"
+    - content: "Answer3"
+      isCorrect: false
+      explanation: "Explanation3"
+    - content: "Answer4"
+      isCorrect: true
+      explanation: "Explanation4"
+  - content: "Question3"
+    choices:
+    - content: "Answer1"
+      isCorrect: false
+      explanation: "Explanation1"
+    - content: "Answer2"
+      isCorrect: false
+      explanation: "Explanation2"
+    - content: "Answer3"
+      isCorrect: false
+      explanation: "Explanation3"
+    - content: "Answer4"
+      isCorrect: true
+      explanation: "Explanation4"

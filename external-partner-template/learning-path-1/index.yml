@@ -16,9 +16,15 @@ summary: | # Add a description for your learning path to be displayed to users i
   <Short description of your learning path> 
 
   In this learning path you will:
-#   - <learning objective 1>
-#   - <learning objective 2>
-#   - <learning objective 3>
+    - <learning objective 1>
+    - <learning objective 2>
+    - <learning objective 3>
+
+  > [!TIP]
+  > This learning path is part of a multimodal learning experience. Start the first module to see how you can follow along!
+
+  PARNTER COPYRIGHT
+
 prerequisites: | # Fill in a detailed list of prerequisites in this form
 #  - prereq 1
 #  - prereq 2

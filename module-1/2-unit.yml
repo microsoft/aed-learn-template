@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: 
+metadata:
+  title: 
+  description: 
+  ms.date: mm/dd/yyyy
+  author: # Your GitHub username (or whomever you'd like to give author attribution to)
+  ms.author: # Your Microsoft username (or whomever you'd like to receive DevOps notifications for this content)
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Same as above
+durationInMinutes: 
+content: |
+  [!include[](includes/2-unit.md)]

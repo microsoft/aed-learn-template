@@ -112,11 +112,12 @@ For all future flagship partnership Learning Paths / Modules and select modules 
 - A 2-3 minute video that introduces and gives an overview of the Learning Path / Module available on-demand on Channel 9
 - A 15-30 minute video walking through each module available on-demand on Channel9.
 
-We will also create light connective tissue from Learn to these other modalities. e.g.:
+We will also create light connective tissue from Learn to these other modalities. You can find a specific template for partnerships in the folder [external-partner-template](./external-partner-template).
 - Starting in *TBD*, when the learning path intro videos/images feature is released, flagship partnership Learning Paths will show a short introduction video inline on the Learning Path’s index page.
   - If a video is not (yet) available, we will substitute in a high-quality image provided by the partner.
 - Flagship partnership Modules and Learning Paths will include text (**formatted as tip**) indicating that this content is part of a multi-modal learning experience.
 - Ensure all partnership content can be localized to all Azure languages listed above. If they cannot, they need to be in a separate folder outside of `student-evangelism`. 
+- If you are linking to Visual Studio Code for a pre-req or throughout modules, please use our tracking link [https://aka.ms/LearnOnVSCode](https://aka.ms/LearnOnVSCode) as these are tracked by the VS Code team (contact: Sana Ajani).
 
 ### Learning Path Special Guidance 
 Learning path index page intro text will follow this format. See [example here](https://docs.microsoft.com/learn/paths/optimize-basketball-games-with-machine-learning/).
