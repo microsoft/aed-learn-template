@@ -3,12 +3,7 @@
 
 This repo is designed to help you create and scaffold your Student/Step 0 content for Microsoft Learn.
 
-If you've found this repo, but haven't yet:
-
-1. Read our [Student/Step 0 content strategy doc](https://microsoft-my.sharepoint.com/:w:/g/personal/shanama_microsoft_com1/EWcQMH7tyKNNstzafKABeTwB7TVKhOm5AUoWcBjIvwA3kg?e=zXatFa)
-2. Reached out to *TBD (Justin Garrett until determined)*
-
-Please take those steps before starting on your content creation journey.
+If you've found this repo, but haven't yet reached out to Chris Noring/Filled out [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9Z0wgVQ2ZtDul6-se84kOpUMFBGSUhZU1ZLSzdKVUc0NFY3NFZHUElGTS4u), please do so before starting on your content creation journey.
 
 ## Requirements
 
@@ -17,14 +12,14 @@ Talk about the general process:
     - Does this content already exist? What are you bringing new?
     - Will this work on a student account? (not a deal breaker if not, but would be nice)
     - Will this work on Mac and PC? How about browser (with CodeSpaces)?
-- Propose to *TBD (Justin Garrett until determined)* with [these instructions](./module-proposal.md)
+- Propose to Chris Noring with [these instructions](./module-proposal.md)
 - Decide on a timeline for project completion
 - Decide what you're building (module, lp) 
 - Outline it using [this module design template](./module-design-template.md) and share with Shana to ensure it is the right size and format
 - Review the [Learn content requirements](https://review.docs.microsoft.com/en-us/learn-docs/docs/content-requirements?branch=master)
 - Clone this template repo
 - Write your content
-- Work with *TBD (Justin Garrett until determined)* to fill in the yml files
+- Work with Chris Noring to fill in the yml files
 - Get someone to review it 
 - Deliver the repo to TBD (Justin Garrett until determined) 
 - Respond to PR/DevOps requests from Aquent in the Learn repo
